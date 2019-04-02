@@ -10,6 +10,8 @@ I used Visual Studio 2017 to compile these solutions as I wrote solutions in C++
 
 * [Visual Studio 2017 Professional](https://visualstudio.microsoft.com/downloads/)
 * [Windows 7 x86](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - Free Virtual Machines from MS
+* [Virtual KD](http://virtualkd.sysprogs.org/) - Without this, debugging was horribly slow.
+* [Windows Driver Kit](https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
 ## Contributing
 

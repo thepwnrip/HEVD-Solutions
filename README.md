@@ -17,7 +17,7 @@ You can contribute to the project by submitting alternate solutions. I will high
 
 ## Authors
 
-* **Himanshu Khokhar** - [PurpleBooth](https://pwnrip.com)
+* **Himanshu Khokhar** - [pwnrip](https://pwnrip.com)
 
 ## License
 

@@ -7,6 +7,7 @@
 #include "common.h"
 #include "StackOverflow.h"
 #include "TypeConfusion.h"
+#include "IntegerOverflow.h"
 
 int main()
 {
@@ -20,7 +21,7 @@ int main()
 
 	hDevice = getDriverHandle(driverName);
 
-	if (!exploitTypeConfusion(hDevice))
+	if (!exploitIntegerOverflow(hDevice))
 		return 1;
 
 	cout << "\t\t[+] Exploitation done." << endl;

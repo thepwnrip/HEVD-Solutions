@@ -29,5 +29,8 @@
     <ClInclude Include="TypeConfusion.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IntegerOverflow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
